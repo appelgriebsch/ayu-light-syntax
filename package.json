@@ -1,0 +1,17 @@
+{
+  "name": "ayu-light-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Imported tmTheme for Ayu-Light on Atom",
+  "keywords": [
+    "syntax",
+    "theme",
+    "ayu",
+    "light"
+  ],
+  "repository": "https://github.com/atom/ayu-light-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
